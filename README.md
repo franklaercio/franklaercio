@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hi there!
 
-<!--
-**franklaercio/franklaercio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Frank! In this profile You will find many projects of software utils in our day. <br />
+I’m currently working on ESIG Software & Consultoria. :man_technologist:
 
-Here are some ideas to get you started:
+## :books: More for me:
+I’m currently learning Flutter and looking to collaborate on Flutter projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mailbox: How to reach me: 
+* **Likendin:** https://www.linkedin.com/in/frank-laercio/
+* **Instagram:** https://www.instagram.com/franklaercio/
+
+## :speech_balloon: Ask me about:
+* **Java**
+* **Python**
+* **C**
+* **Flutter**
+* **Dart**
+* **CSS**
+* **HTML**
