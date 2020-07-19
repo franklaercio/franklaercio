@@ -1,20 +1,11 @@
 ### 👋 Hi there!
 
-I'm Frank! In this profile You will find many projects of software utils in our day. <br />
-I’m currently working on ESIG Software & Consultoria. :man_technologist:
+- :man_technologist: I'm Frank! In this profile You will find many projects of software utils in our day.
 
-## :books: More for me:
-I’m currently learning Flutter and looking to collaborate on Flutter projects.
+- :office: I’m currently working on ESIG Software & Consultoria. 
 
-## :mailbox: How to reach me: 
-* **Likendin:** https://www.linkedin.com/in/frank-laercio/
-* **Instagram:** https://www.instagram.com/franklaercio/
+- :books: I’m currently learning Flutter and looking to collaborate on Flutter projects.
 
-## :speech_balloon: Ask me about:
-* **Java**
-* **Python**
-* **C**
-* **Flutter**
-* **Dart**
-* **CSS**
-* **HTML**
+- :mailbox: How to reach me: [**Likendin:**](https://www.linkedin.com/in/frank-laercio/) and [**Instagram:**](https://www.instagram.com/franklaercio/).
+
+- :speech_balloon: Ask me about: Java, Python, C, C#, Flutter, Dart, CSS and HTML.
