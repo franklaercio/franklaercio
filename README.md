@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm Frank!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/franklaercio)](https://github.com/franklaercio)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frank.laercio@gmail.com)](mailto:frank.laercio@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frank-laercio/)](https://www.linkedin.com/in/frank-laercio/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklaercio)](https://www.instagram.com/franklaercio) 
 
