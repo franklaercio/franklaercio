@@ -7,9 +7,9 @@
 
 - :man_technologist: In this profile You will find many projects of software utils in our day.
 
-- :office: I’m currently working on ESIG Software & Consultoria. 
+- :office: I’m currently working on [ESIG Software & Consultoria](https://www.esig.com.br/). 
 
-- :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/)
+- :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
 
 - :books: I’m currently learning Flutter and looking to collaborate on Flutter projects.
 
