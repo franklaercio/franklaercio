@@ -36,5 +36,5 @@
 ---
 <p> 
   <img align="left" alt="franklaercio" src="https://github-readme-stats.codestackr.vercel.app/api?username=franklaercio&show_icons=true&hide_border=true" />
-  <img align="right" alt="franklaercio" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklaercio&hide_border=true&card_width=200&layout=compact" />
+  <img align="right" alt="franklaercio" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklaercio&hide_border=true&card_width=400&layout=compact" />
 </p>
