@@ -34,7 +34,7 @@
 <br />
 
 ---
-<p> 
+<p align="center"> 
   <img align="left" alt="franklaercio" src="https://github-readme-stats.codestackr.vercel.app/api?username=franklaercio&show_icons=true&hide_border=true" />
-  <img align="right" alt="franklaercio" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklaercio&hide_border=true&card_width=250&layout=compact" />
+  <img align="center" alt="franklaercio" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklaercio&hide_border=true&card_width=250&layout=compact" />
 </p>
