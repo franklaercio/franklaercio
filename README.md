@@ -18,7 +18,6 @@
 <img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/38151364/89708917-6f3bf480-d951-11ea-90a5-589b91233f7e.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38151364/89708860-1bc9a680-d951-11ea-8b0a-cf2d9d7c6edf.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/38151364/89708902-4ca9db80-d951-11ea-9a2f-e81e66fb4d0d.png" />
-<img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/38151364/109068655-ea3ae180-76ce-11eb-9a1f-9f218dbc0a14.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
