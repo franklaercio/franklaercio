@@ -27,7 +27,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/38151364/89709011-5718a500-d952-11ea-8b62-cbba56cbe1cd.png" />
 <img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/38151364/109069401-f1aeba80-76cf-11eb-9278-6c339fe1d6f0.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://user-images.githubusercontent.com/38151364/89708990-2b95ba80-d952-11ea-82b3-03bde22c56ef.png" />
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/38151364/109068485-aea01780-76ce-11eb-9671-2afab61627e5.png" />
+<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/38151364/109069510-12771000-76d0-11eb-9d29-51c7826848db.png" />
 <img align="left" alt="shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
