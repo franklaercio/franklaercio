@@ -6,7 +6,7 @@
 
 - :man_technologist: In this profile You will find many projects of software utils in our day.
 
-- :office: I’m currently working on [ESIG Software & Consultoria](https://www.esig.com.br/). 
+- :office: I’m currently working on [ESIG Software & Consultoria](https://www.esig.com.br/) as a System Analyst. 
 
 - :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
 
@@ -34,6 +34,4 @@
 <br />
 
 ---
-<p align="center"> 
-  <img align="left" alt="franklaercio" src="https://github-readme-stats.codestackr.vercel.app/api?username=franklaercio&show_icons=true&hide_border=true&theme=dark" />
-</p>
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklaercio&show_icons=true&theme=radical)
