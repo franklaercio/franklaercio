@@ -13,8 +13,8 @@
 - :books: I’m currently learning Flutter and looking to collaborate on Flutter projects.
 
 ### Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/38151364/109066721-3fc1bf00-76cc-11eb-9e43-2817685c75bb.png" />
-<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/38151364/109068318-7567a780-76ce-11eb-8d84-38263d0a86cc.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/38151364/109068896-3b4ad580-76cf-11eb-80f4-a94a55520d51.png" />
+<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/38151364/109069158-98468b80-76cf-11eb-9385-e4f3dd2217ab.png" />
 <img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/38151364/89708917-6f3bf480-d951-11ea-90a5-589b91233f7e.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38151364/89708860-1bc9a680-d951-11ea-8b0a-cf2d9d7c6edf.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/38151364/89708902-4ca9db80-d951-11ea-9a2f-e81e66fb4d0d.png" />
@@ -25,7 +25,7 @@
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/38151364/89708934-a7dbce00-d951-11ea-8ff1-1b7991267c05.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/38151364/89709011-5718a500-d952-11ea-8b62-cbba56cbe1cd.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/38151364/109069401-f1aeba80-76cf-11eb-9278-6c339fe1d6f0.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://user-images.githubusercontent.com/38151364/89708990-2b95ba80-d952-11ea-82b3-03bde22c56ef.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/38151364/109068485-aea01780-76ce-11eb-9671-2afab61627e5.png" />
 <img align="left" alt="shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
