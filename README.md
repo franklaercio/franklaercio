@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frank-laercio/)](https://www.linkedin.com/in/frank-laercio/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklaercio)](https://www.instagram.com/franklaercio) 
 
-- :office: I’m currently working on [ESIG Software & Consultoria](https://www.esig.com.br/) as a System Analyst. 
+- :office: I’m currently working on [Dextra](dextra.com.br) as a System Analyst. 
 
 - :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
 
