@@ -6,9 +6,9 @@
 
 - :office: I’m currently working on [Dextra](https://www.dextra.com.br/) as a System Analyst. 
 
-- :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
+- :mortar_board: I'm certified as Computer Technician - [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte](https://portal.ifrn.edu.br/).
 
-- :books: I’m currently learning Flutter and looking to collaborate on Flutter projects.
+- :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/38151364/109068896-3b4ad580-76cf-11eb-80f4-a94a55520d51.png" />
