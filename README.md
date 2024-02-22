@@ -1,1 +1,2 @@
+<img src="https://github.com/franklaercio/franklaercio/assets/38151364/220135f5-2bd5-4cf8-9b15-90b0c0d69445" alt="Gopher on the top of a mountain" style="height:20%;width:20%"/>
 Trying to balance work, university studies, family, gym, 1000 games to beat, Golang studies, collecting vintage video games, and an inexplicable addiction to collecting novelty socks, all while having a pet dog with an attitude problem named Tux.
