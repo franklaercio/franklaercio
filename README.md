@@ -1,2 +1,23 @@
-<img src="https://github.com/franklaercio/franklaercio/assets/38151364/220135f5-2bd5-4cf8-9b15-90b0c0d69445" alt="Gopher on the top of a mountain" style="height:10%;width:10%"/> 
-Trying to balance work, university studies, family, gym, 1000 games to beat, Golang studies, collecting vintage video games, and an inexplicable addiction to collecting novelty socks, all while having a pet dog with an attitude problem named Tux.
+### Hello, welcome to my GitHub! 👋
+
+I'm Frank Laércio, a computer science student trying to balance:
+
+- Work
+- University studies
+- Family time
+- Gym
+- 1000 games to beat
+- Golang studies
+- Memorized quotes from Master Yoda
+- Collecting vintage video games
+- A collection of mugs
+
+All this while a knack for easily learning useless things.
+
+Here you will find my projects, ranging from distributed systems to experiments with new technologies. Feel free to explore, collaborate, and share ideas!
+
+[Visit my Linkedln](https://www.linkedin.com/in/frank-laercio/)
+
+---
+
+If you need anything or want to discuss a project, don't hesitate to reach out. Let's code together! 🚀
